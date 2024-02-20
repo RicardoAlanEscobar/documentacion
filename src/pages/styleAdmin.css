@@ -62,5 +62,7 @@ margin: 0px;
 }
 /*Estilos cabecera*/
 .login{
+
+    padding-left: 35%;
     letter-spacing: 1px;
 }
