@@ -1,0 +1,66 @@
+*{
+margin: 0px;
+}
+/*Estilos de contenedor*/
+.container-forms{
+    margin-top: 0%;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.data-forms-admins{
+    height: 400px;
+    width: 420px;
+    background-color: #e58a8a00;
+    display:grid;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 6px;
+    border: solid;
+    box-shadow: 7px 9px 13px rgb(20, 20, 20);
+}
+/*Estilos de cuadro de texto*/
+.data-intro{
+    width: 355px;
+    height: 50px;
+    padding: 4%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 6px;
+    color: black;
+    border-color: #3AE9D6;
+    letter-spacing: .6px;
+    font-size: 15px;
+    
+}
+/*Estilos del boton*/
+.button-forms{
+    width: 355px;
+    height: 50px;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #2124bb;
+    border-color: #3AE9D6;
+    font-size: 16px;
+    color: white;
+    letter-spacing: 1px;
+    
+}
+.button-forms:hover{
+    background-color: #2e31cb;
+    transform: translate(1.5px, 1%); 
+}
+/*Estilos del contacto*/
+.contact-sp{
+    color: rgb(15, 12, 187);
+}
+.contact-sp:hover{
+    color: rgb(187, 12, 12);
+}
+/*Estilos cabecera*/
+.login{
+    letter-spacing: 1px;
+}
