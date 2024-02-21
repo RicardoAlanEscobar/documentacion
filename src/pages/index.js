@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <Layout
       title={`Inicio`}
-      description="Description willifid go into a meta tag in <head />">
+      description="Neuuni Universidad <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

@@ -7,7 +7,7 @@ Este es un tutorial para
 guiarte paso a paso en el uso de la clase virtual dentro de cada uno de los temas de un curso.
 
 Lo primero que deveras hacer, es iniciar sesión en la plataforma de NEUUNI con la siguiente liga: 
-https://auth.neuuni.com/login 
+https://cursos.unineuuni.edu.mx
 
 Una vez hayas iniciado sesión, ingresa al curso que desees.
 Para ingresar a un curso, hay 2 maneras de hacerlo:

@@ -7,18 +7,16 @@ sidebar_position: 2
 ### Paso 1
 1. Ingresa a la plataforma de Neuuni en la dirección: cursos.unineuuni.edu.mx 
 
-Al ingresar podrás visualizar la siguiente pantalla:
+Al ingresar podrás visualizar la siguiente pantalla donde deberemos dar clic en **Continuar con google**:
 
 ![navegador](./img/plataforma1.jpg)
 
 ### Paso 2
-2. Para ingresar a la plataforma, deveras dar clic en el botón azul con la leyenda: “Continuar con 
-Google”.
+2. Al dar clic, nos abrira una ventana donde deberemos seleccionar nuestra cuenta institucional. 
 
 ![navegador](./img/plataforma2.jpg)
 
-Al dar clic en el botón, aparecerá una ventana donde nos dará a escoger con que cuenta queremos 
-ingresar.
+
 
 ### Paso 3
 3. Seleccionamos nuestra cuenta institucional. Si no aparece tu cuenta, da clic en “Usar otra cuenta” e 
