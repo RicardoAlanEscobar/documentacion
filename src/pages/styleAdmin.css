@@ -62,7 +62,7 @@ margin: 0px;
 }
 /*Estilos cabecera*/
 .login{
-
-    padding-left: 35%;
-    letter-spacing: 1px;
+    font-size: 45px;
+    padding-left: 30%;
+    letter-spacing: 3px;
 }

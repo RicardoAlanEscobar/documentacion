@@ -58,5 +58,5 @@ const Administrativos = () => {
     );
   };
 
-  //Esportar funcion de administrativos
+  //Exportar funcion de administrativos
   export default Administrativos;
