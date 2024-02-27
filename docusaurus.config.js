@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: '440 105 1527',
-                to: 'https://wa.me/message/RSY3GACKA2KTN1',
+                href: 'https://wa.me/message/RSY3GACKA2KTN1',
               },
             ],
           },
@@ -139,7 +139,7 @@ const config = {
             items: [
               {
                 label: 'Plataforma de Neuuni.',
-                to: 'https://cursos.unineuuni.edu.mx/',
+                href: 'https://cursos.unineuuni.edu.mx/',
               },
               {
                 label: 'Plataforma de pagos.',
