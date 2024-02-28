@@ -10,7 +10,7 @@ let psword=document.getElementById("psword").value;
 
 if (user === 'admin' && psword === '123a')
 {
-  window.open('/cont-admin');
+  window.open('/blog');
 }
 else{
   alert("Usuario o contraeña incorrecta.");

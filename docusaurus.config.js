@@ -65,8 +65,7 @@ const config = {
         path: 'mentores',
         routeBasePath: 'mentores',
         sidebarPath: require.resolve('./mySidebars.js'),
-
-      },
+      },    
     ],
   ],
 
@@ -102,7 +101,7 @@ const config = {
            position: 'left'
            
           },
-           
+          
         ],
       },
       footer: {

@@ -1,5 +1,4 @@
 import React from "react";
-import Layout from "@theme/Layout";
 import sidebars from "../../sidebars";
 
 
@@ -17,14 +16,24 @@ function restringir(){
 
 };
 
-function componentes1 (){
+function Componentes1 (){
 return (
  <>
-    <Layout>
+    
       <div>
-        <h1 style={{margin: '145px'}}>test1</h1>
+        <h1 style={{margin: '145px'}}>Introducción</h1>
+        <p>Texto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto texto</p>
+        <p>Texto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto texto
+          <p>Texto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto texto
+            <p>Texto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto texto
+              <p>Texto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto textoTexto texto texto
+
+              </p>
+            </p>
+          </p>
+        </p>
       </div>
-    </Layout>
+    
  </>  
 );
 };
@@ -33,4 +42,4 @@ restringir();
 
 
 
-export default componentes1;
+export default Componentes1;
