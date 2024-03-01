@@ -27,7 +27,7 @@ export default function Home() {
     <Layout
       title={`Inicio`}
       description="Neuuni Universidad <head />">
-      <HomepageHeader />
+      
       <main>
         <HomepageFeatures />
       </main>
