@@ -21,7 +21,7 @@ const config = {
 
   
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'es', 
     locales: ['en','es','fr'],
   },
 
@@ -41,9 +41,7 @@ const config = {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+          },
         pages:{
           routeBasePath: '/',
           // Please change this to your repo.
@@ -56,7 +54,7 @@ const config = {
       }),
     ],
   ],
-
+//-------------------------------------------------------------------------------------
   plugins: [
     [
       '@docusaurus/plugin-content-docs',
@@ -65,11 +63,10 @@ const config = {
         path: 'mentores',
         routeBasePath: 'mentores',
         sidebarPath: require.resolve('./mySidebars.js'),
-
-      },
+      },    
     ],
   ],
-
+//---------------------------------------------------------------------------------------
 
 
   themeConfig:
@@ -102,7 +99,7 @@ const config = {
            position: 'left'
            
           },
-           
+          
         ],
       },
       footer: {
