@@ -10,7 +10,7 @@ const FeatureList = [
       <>
        Si eres alumno, aquí podrás encontrar tutoriales que te facilitarán tu estancia en Neuuni. 
        <p></p>
-         <a href='/docs/intro' className='home-buton'>Ingresar</a>
+         <a href='/docs/intro' className='home-buton'><b>Ingresar</b></a>
 </>
     ),
   },
@@ -22,7 +22,7 @@ const FeatureList = [
         Como mentor, es importante que conozca su entorno de trabajo y las herramientas
          que día con día empleara para garantizar la mejor calidad dentro de las clases. 
          <p></p>
-         <a href='/mentores/intro' className='home-buton'>Ingresar</a>
+         <a href='/mentores/intro' className='home-buton'><b> Ingresar</b></a>
           </>
     ),
   },
@@ -34,7 +34,7 @@ const FeatureList = [
        Colaboradores de Neuuni, aquí encontrarán tutoriales para mejorar
         el dominio de las herramientas con las cuales emplean su trabajo.
         <p></p>
-         <a href='/administrativos' className='home-buton'>Ingresar</a>
+         <a href='/administrativos' className='home-buton'><b>Ingresar</b></a>
          
       </>
     ),

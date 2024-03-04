@@ -79,3 +79,16 @@
 .img-intro{
 height: 800px;
 }
+
+.contenedor-video{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor-video-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
