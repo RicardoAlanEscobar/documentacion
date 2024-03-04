@@ -31,18 +31,20 @@
 
 
 .home-buton{
-  background-color: rgb(58, 58, 58);
+  width: 40px;
   padding: 14px;
+  padding-left: 115px;
+  padding-right:115px;
   padding-top: 9px;
   border-radius: 4px;
   letter-spacing: 1px;
-  color: white;
+  border: solid 1px;
+  border-radius: 5px;
 }
 .home-buton:hover
 {
-  color: aliceblue;
-  background-color: #2c2b2b;
+  color: rgb(255, 255, 255);
+  background-color: #2124bb;
   text-decoration: none;
-  transform: translate(1.5px, 1%);
-  
+  border:  #2124bb;
 }
