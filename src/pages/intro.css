@@ -1,0 +1,81 @@
+*{
+    margin: 0%;
+}
+
+/*Estilos de bloque principal*/
+.contenedor-intro{
+    display: flex;
+    height: 450px;
+    width: 100%;
+}
+/*Estilos de bloque izquierdo*/
+.contenido-izquierdo{
+    padding-top: 95px;
+    padding-left: 80px;
+    padding-right: 13px;
+    height: 450px;
+    width: 666px;
+}
+/*Estilos de botones*/
+.btn-intro{
+    margin-top: 15px;
+    padding: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 6px;
+    border: solid 2px;
+    color: #21af90;
+}
+#btn-intro1{
+    margin-right: 15px;
+}
+
+.btn-intro, a{
+    letter-spacing: 0.9px;
+}
+.btn-intro:hover{
+    transition: 1s ease;
+    color: white;
+    text-decoration: none;
+    background-color: #21af90;
+}
+/*Estilos de bloque derecho*/
+.contenido-derecho{
+    height: 450px;
+    width: 700px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+/*Estilos de introduccion*/
+.descripcion-intro{
+    font-size: 21px;
+    padding-bottom: 17px;
+    letter-spacing: 0.5px;
+}
+/*Estilos de el titulo*/
+.title-intro{
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+.block-div{
+    border: 0;
+    opacity: 0.3;
+    width: 75%;
+    margin-left: 12.5%;
+    background-color: rgb(69, 68, 68);
+    height: 2px;
+}
+
+@media (max-width: 1250px) {
+    .contenido-derecho{
+        display: none;
+        
+    }
+    .botones-intro{
+        display: flex;
+    }
+}
+.img-intro{
+height: 800px;
+}
