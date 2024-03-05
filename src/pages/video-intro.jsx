@@ -3,7 +3,7 @@ import intro from "./intro.css"
 
 
 function Video(){
-    return(
+  return(
    <>
    <hr className="block-div" />
    <div className="contenedor-video-2">
