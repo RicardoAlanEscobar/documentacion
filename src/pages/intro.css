@@ -34,7 +34,7 @@
     letter-spacing: 0.9px;
 }
 .btn-intro:hover{
-    transition: 1s ease;
+    transition: 0.7s ease;
     color: white;
     text-decoration: none;
     background-color: #21af90;
