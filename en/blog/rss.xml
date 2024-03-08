@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>NEUUNI UNIVERSIDAD Blog</title>
+        <link>https://your-docusaurus-site.example.com/en/blog</link>
+        <description>NEUUNI UNIVERSIDAD Blog</description>
+        <lastBuildDate>Mon, 29 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Cursos]]></title>
+            <link>https://your-docusaurus-site.example.com/en/blog/2024/04/29/</link>
+            <guid>https://your-docusaurus-site.example.com/en/blog/2024/04/29/</guid>
+            <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Como crear un curso.]]></description>
+            <content:encoded><![CDATA[<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">Creación</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Introducción</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Título</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Subtítulo</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Parrafo</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Imagen</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><p>Como crear un curso.</p><ol>
+<li>Inicia sesion en la plataforma con tu cuenta de administrador.</li>
+<li>Da clic en el boton "+" que se encuentra en la parte inferior derecha.</li>
+<li>Rellena los campos que se relacionan a la descripción y contenido del curso.
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/creacion1-f8e7534abe8357426c6a37ab3f678c75.jpg" width="1366" height="636" class="img_ev3q"></li>
+<li>Una vez hayas rellenado todos los campos;
+Da clic en el boton de guardar que aparece a la derecha hasta abajo al igual que encontraras el mismo boton arriba a la derecha.</li>
+</ol></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Como editar la introducción de un curso.</p><ol>
+<li>Seleccione el curso que deseé editar.</li>
+<li>De clic en el icono de editar dentro de la sección de introducción.
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/intro-edit-ea1cc1a4146bf94ce985be3dcd307d09.jpg" width="1366" height="662" class="img_ev3q"></li>
+<li>Agrega el nuevo texto.</li>
+<li>Da clic en "Guardar cambios"</li>
+</ol></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Adicionar y eliminar bloque de texto título.</p><ol>
+<li>Seleccione el curso que deseé editar.</li>
+<li>De clic en el icono de editar dentro de la sección de introducción.</li>
+<li>De clic en el boton "Adicionar bloque de texto" que se encuentra debajo.
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/title1-ea16abb450d82718488a3c3d638c0c41.jpg" width="1366" height="671" class="img_ev3q"></li>
+<li>Seleccione la opción de texto.</li>
+<li>Seleccione la opción de título.
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/title2-bc0709e1159aa0a5d778966c310141fc.jpg" width="1366" height="688" class="img_ev3q"></li>
+<li>Agrege el texto.</li>
+<li>De clic en guardar.</li>
+</ol></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Adicionar y eliminar bloque de texto subtítulo</p><ol>
+<li>Seleccione el curso que deseé editar.</li>
+<li>De clic en el icono de editar dentro de la sección de introducción.</li>
+<li>De clic en el boton "Adicionar bloque de texto" que se encuentra debajo.
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/title1-ea16abb450d82718488a3c3d638c0c41.jpg" width="1366" height="671" class="img_ev3q"></li>
+<li>Seleccione la opción de texto.</li>
+<li>Seleccione la opción de subtítulo.
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/title2-bc0709e1159aa0a5d778966c310141fc.jpg" width="1366" height="688" class="img_ev3q"></li>
+<li>Agrege el texto.</li>
+<li>De clic en guardar.</li>
+</ol></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Adicionar y eliminar bloque de parrafo.</p><ol>
+<li>Seleccione el curso donde deseé introducir el parrafo.</li>
+<li>De clic en el icono de editar dentro de la sección de introducción.</li>
+<li>De clic en el boton "Adicionar bloque" que se encuentra debajo.</li>
+<li>Seleccione la opción de "texto".
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/parrafo1-94539f3cd6733a5a99cb15e7edbb921d.jpg" width="1365" height="640" class="img_ev3q"></li>
+<li>Ingrese el contenido del parrafo.</li>
+<li>De clic en guardar.</li>
+</ol></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Adicionar y eliminar bloque de imagen.</p><ol>
+<li>Seleccione el curso que deseé editar.</li>
+<li>De clic en el icono de editar dentro de la sección de introducción.</li>
+<li>De clic en "Adicionar bloque".</li>
+<li>De clic en la opción de "Imagen".
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/imgn1-928dc042635cd942f169eb67503db5c3.jpg" width="1366" height="634" class="img_ev3q"></li>
+<li>Ingrese la imagen.</li>
+<li>De clic en guardar.</li>
+</ol></div></div></div>
+<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">Recursos</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Etiquetas</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Mentor</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Tema</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Video</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Imagen</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><p>Adicionar y eliminar un bloque de recursos.</p><ol>
+<li>Seleccione el curso que deseé editar.</li>
+<li>De cli en el icono de editar dentro de la seccion de introducción.</li>
+<li>Seleccione la opcion de "Adicionar bloque".</li>
+<li>De clic en la opción de "Recursos"
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/rec1-4022a349291011952d5fd4d04316e718.jpg" width="1366" height="679" class="img_ev3q"></li>
+<li>Ingrese os recursos que deseé.</li>
+<li>De clic en guardar.</li>
+</ol></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Adicionar y eliminar etiquetas.</p><ol>
+<li>Seleccione el curso que deseé editar</li>
+<li>De clic en el icono de editar dentro de la seccion de introducción.</li>
+<li>Seleccione la opción de "Adicionar bloque"</li>
+<li>De clic en la opción de "Etiquetas"
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/etiqueta1-c48b3d8ab49033b2304583e93a1a41eb.jpg" width="1366" height="662" class="img_ev3q"></li>
+<li>Rellene los campos con la información relacionada a su etiqueta.</li>
+<li>De clic en guardar.</li>
+</ol></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Adicionar y eliminar Menntores de un curso.</p><ol>
+<li>Seleccione el curso donde desee agrregar al mentor.</li>
+<li>De clic en el simbolo "+" que se encuentra en la parte derecha de la pantalla.</li>
+</ol><p>Le aparecera una ventana.
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/mtr1-940aff2608a040da7a5994b8d3653ee9.jpg" width="1366" height="674" class="img_ev3q">
+3. Ingrese el nombre del mentor.
+4. De clic en guardar.</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Como adicionar un tema.</p><ol>
+<li>Seleccione el curso donde deseé adicionar un nuevo tema.</li>
+<li>De clic en los 3 puntos ubicados en la parte superior de la derecha.</li>
+<li>Seleccione la opcion de "Adicionar tema".</li>
+</ol><p>Le aparecera una ventana donde debera ingresar los datos relacionados con el tema.
+<img decoding="async" loading="lazy" alt="navegador" src="https://your-docusaurus-site.example.com/en/assets/images/tma1-85467f861a6b929f8009f83e107b2752.jpg" width="1366" height="669" class="img_ev3q">
+4. Rellene los campos.
+5. De clic en guardar.</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>Adicionar bloque de video.</p><ol>
+<li>Seleccione el curso que deseé.</li>
+<li>De clic en</li>
+</ol></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>This is an greenss 🍊
+test de imagenes conjugado de texto, distrubucion de contenido.</p></div></div></div>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[prueba 2]]></title>
+            <link>https://your-docusaurus-site.example.com/en/blog/2024/03/10/</link>
+            <guid>https://your-docusaurus-site.example.com/en/blog/2024/03/10/</guid>
+            <pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ded]]></title>
+            <link>https://your-docusaurus-site.example.com/en/blog/ded</link>
+            <guid>https://your-docusaurus-site.example.com/en/blog/ded</guid>
+            <pubDate>Wed, 28 Feb 2024 23:16:34 GMT</pubDate>
+            <description><![CDATA[This is an apple 🍎]]></description>
+            <content:encoded><![CDATA[<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">Apple</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Orange</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">gren</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Banana</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><p>This is an apple 🍎</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>This is an orange 🍊</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>This is an greenss 🍊</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><p>This is a banana 🍌</p><ol>
+<li>asdas</li>
+<li>dasdas</li>
+<li>dasdasdsa</li>
+</ol></div></div></div>
+<p>Prueba de componentes</p>
+<p>Testing 1</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
