@@ -11,10 +11,11 @@
 /*Estilos de bloque izquierdo*/
 .contenido-izquierdo{
     padding-top: 95px;
-    padding-left: 80px;
-    padding-right: 13px;
+    padding-left: 100px;
+    padding-right: 10px;
     height: 450px;
-    width: 666px;
+    width: 706px;
+   
 }
 /*Estilos de botones*/
 .btn-intro{
@@ -46,6 +47,8 @@
     display: flex;
     align-items: end;
     justify-content: center;
+    padding-right: 30px;
+    
 }
 /*Estilos de introduccion*/
 .descripcion-intro{
@@ -75,9 +78,19 @@
     .botones-intro{
         display: flex;
     }
+    .contenido-izquierdo{
+        margin: 0%;
+        padding: 50px;
+
+    }
+    .video{
+        width: 450px;
+        height: 345px;
+    }
 }
 .img-intro{
-height: 800px;
+height: 400px;
+width: 550px;
 }
 
 .contenedor-video{
