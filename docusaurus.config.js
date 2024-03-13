@@ -6,23 +6,23 @@ const config = {
   title: 'NEUUNI UNIVERSIDAD',
   tagline: 'Bienvenidos 👋 ',
   favicon: 'img/logo-n.png',
-
-
-  url: 'https://your-docusaurus-site.example.com',
+ 
+  url: 'https://RicardoAlanEscobar.github.io/',
 
   baseUrl: '/',
 
-  
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
 
+  organizationName: 'RicardoAlanEscobar', // Usually your GitHub org/user name.
+  projectName: 'documentacion', // Usually your repo name.
+  deploymentBranch:'gh-pages',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   
   i18n: {
     defaultLocale: 'es', 
-    locales: ['en','es','fr'],
+    locales: ['es'],
   },
 
   presets: [
