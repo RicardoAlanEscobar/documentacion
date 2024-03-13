@@ -1,6 +1,9 @@
 import React from "react";
 import intro from "./intro.css"
 import mascota from "./img/mascota.gif"
+import nevil from "./img/nevil1.gif"
+import nevil2 from "./img/nevil2.gif"
+import nevil3 from "./img/nevil3.gif"
 
 
 function Intro (){
@@ -16,7 +19,7 @@ return (
    </div>
  </div>
  <div className="contenido-derecho">
-    <img src={mascota} alt="none" className="img-intro"/>
+    <img src={mascota} alt="none" className="img-intro" loop="infinite" />
  </div>
 </div>
 <hr className="block-div" />
