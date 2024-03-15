@@ -1,7 +1,7 @@
 import React from "react";
 import sidebars from "../../sidebars";
 
-
+/*
 function restringir(){
     let psword;
     psword = prompt("Ingrese la contraseña:");
@@ -15,7 +15,7 @@ function restringir(){
 }
 
 };
-
+*/ 
 function Componentes1 (){
 return (
  <>
@@ -38,7 +38,7 @@ return (
 );
 };
 
-restringir();
+
 
 
 
